@@ -1,6 +1,6 @@
 CREATE DATABASE filmes;
 
-USE filme;
+USE filmes;
 
 CREATE TABLE filme(
     PK_filme INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
