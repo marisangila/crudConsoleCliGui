@@ -61,7 +61,7 @@ def listar_filmes():
     print('--------------------------------------')
     print('Visualizar Filmes:')
     for filme in filmes:
-        print('--------------------------------------')2
+        print('--------------------------------------')
         print(f'Código: {filme[0]}')
         print(f'Nome: {filme[1]}')
         print(f'Data de Lançamento: {filme[2]}')
